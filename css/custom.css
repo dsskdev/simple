@@ -1,0 +1,31 @@
+nav a::after{
+  content: ".";
+  color: aqua;
+}
+a.mdl-navigation__link{
+  letter-spacing: 0.2rem;
+}
+.demo-layout-transparent {
+  background-image: url('../images/test-home-2.jpg');  
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+  }
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  color: white;
+}
+img{
+  width:100%;
+  height:100%;
+}
+
+#home{
+    height: 100vh;
+}
+#services{
+  text-align: center;
+  background-color: aqua;
+}
