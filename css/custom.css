@@ -25,7 +25,11 @@ img{
 #home{
     height: 100vh;
 }
-#services{
+#services {
   text-align: center;
-  background-color: aqua;
+  background-color: #3eb9b9;
+}
+
+#contact{ 
+  background-color: #3eb9b9;
 }
